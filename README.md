@@ -1,16 +1,6 @@
 # drawer_demo
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/80441756/182197591-958e09c3-e777-4141-b31a-6fbc38d7c887.png)
 
-## Getting Started
+creating a flutter apppage with customized button which activates drawer in the sidebar.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
